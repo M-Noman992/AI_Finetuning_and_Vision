@@ -1,0 +1,102 @@
+[
+    {
+        "context": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It was completed in 1889 and is one of the most recognizable structures in the world.",
+        "question": "When was the Eiffel Tower completed?",
+        "answer": "1889"
+    },
+    {
+        "context": "Python is a popular programming language created by Guido van Rossum and first released in 1991. It is widely used for web development, data analysis, artificial intelligence, and scientific computing.",
+        "question": "Who created Python?",
+        "answer": "Guido van Rossum"
+    },
+    {
+        "context": "The Pacific Ocean is the largest and deepest ocean on Earth. It covers more than 63 million square miles and is bounded by Asia, Australia, the Americas, and Antarctica.",
+        "question": "What is the largest ocean on Earth?",
+        "answer": "The Pacific Ocean"
+    },
+    {
+        "context": "Albert Einstein developed the theory of relativity, one of the two pillars of modern physics. His equation, E=mc^2, is famous for describing the relationship between mass and energy.",
+        "question": "What equation is Albert Einstein famous for?",
+        "answer": "E=mc^2"
+    },
+    {
+        "context": "Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas. Its peak is 8,848.86 meters (29,031.7 ft) above sea level.",
+        "question": "What is the height of Mount Everest?",
+        "answer": "8,848.86 meters"
+    },
+    {
+        "context": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, and wood. It was built to protect Chinese states from invasions and raids from nomadic groups.",
+        "question": "Why was the Great Wall of China built?",
+        "answer": "To protect Chinese states from invasions and raids."
+    },
+    {
+        "context": "The moon is Earth's only natural satellite and the fifth largest satellite in the Solar System. Its gravitational influence causes tides on Earth.",
+        "question": "What causes tides on Earth?",
+        "answer": "The moon's gravitational influence."
+    },
+    {
+        "context": "The Amazon Rainforest is the largest tropical rainforest in the world. It covers much of northern South America and is home to diverse flora and fauna.",
+        "question": "Where is the Amazon Rainforest located?",
+        "answer": "Northern South America."
+    },
+    {
+        "context": "Mahatma Gandhi was an Indian lawyer and anti-colonial nationalist who employed nonviolent resistance to lead India to independence from British rule.",
+        "question": "What method did Mahatma Gandhi use to achieve independence?",
+        "answer": "Nonviolent resistance."
+    },
+    {
+        "context": "Water boils at 100 degrees Celsius (212 degrees Fahrenheit) at sea level. The boiling point can vary depending on altitude.",
+        "question": "At what temperature does water boil at sea level?",
+        "answer": "100 degrees Celsius."
+    },
+    {
+        "context": "The sun is a nearly perfect sphere of hot plasma and the center of the Solar System. It provides energy in the form of sunlight that sustains life on Earth.",
+        "question": "What is the source of energy for life on Earth?",
+        "answer": "Sunlight."
+    },
+    {
+        "context": "The Taj Mahal is a white marble mausoleum built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal. It is located in Agra, India.",
+        "question": "Who built the Taj Mahal?",
+        "answer": "Emperor Shah Jahan."
+    },
+    {
+        "context": "The human brain is the central organ of the human nervous system. It is responsible for thought, memory, emotion, and sensory processing.",
+        "question": "What is the human brain responsible for?",
+        "answer": "Thought, memory, emotion, and sensory processing."
+    },
+    {
+        "context": "The Nile River is the longest river in the world, flowing through northeastern Africa. It has been an essential source of water and agriculture for thousands of years.",
+        "question": "What is the longest river in the world?",
+        "answer": "The Nile River."
+    },
+    {
+        "context": "The Wright brothers, Orville and Wilbur, are credited with inventing and building the world's first successful motor-operated airplane in 1903.",
+        "question": "Who invented the first successful airplane?",
+        "answer": "The Wright brothers."
+    },
+    {
+        "context": "Leonardo da Vinci was an Italian polymath of the Renaissance period. He is known for his masterpieces, such as the Mona Lisa and The Last Supper.",
+        "question": "What are two famous works by Leonardo da Vinci?",
+        "answer": "The Mona Lisa and The Last Supper."
+    },
+    {
+        "context": "Electricity is the presence and flow of electric charge. It powers most of the modern world's technology and infrastructure.",
+        "question": "What does electricity power in the modern world?",
+        "answer": "Technology and infrastructure."
+    },
+    {
+        "context": "The Sahara Desert is the largest hot desert in the world, covering most of northern Africa. It has extreme climate conditions and unique ecosystems.",
+        "question": "What is the largest hot desert in the world?",
+        "answer": "The Sahara Desert."
+    },
+    {
+        "context": "Neil Armstrong was the first person to walk on the moon during the Apollo 11 mission in 1969. His words, 'That's one small step for man, one giant leap for mankind,' are iconic.",
+        "question": "Who was the first person to walk on the moon?",
+        "answer": "Neil Armstrong."
+    },
+    {
+        "context": "Gravity is a fundamental force of nature that attracts objects with mass towards each other. It keeps planets in orbit around the sun.",
+        "question": "What does gravity do?",
+        "answer": "Attracts objects with mass and keeps planets in orbit."
+    }
+]
